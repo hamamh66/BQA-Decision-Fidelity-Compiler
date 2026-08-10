@@ -1,0 +1,7 @@
+estimator,oracle calls,mean |p̂−p|,95% CI half-width
+MLAE,576,0.00598,0.00158
+Monte Carlo,576,0.01447,0.00332
+MLAE,2304,0.00181,0.00064
+Monte Carlo,2304,0.00894,0.00204
+MLAE,9216,0.00132,0.00035
+Monte Carlo,9216,0.00452,0.00127

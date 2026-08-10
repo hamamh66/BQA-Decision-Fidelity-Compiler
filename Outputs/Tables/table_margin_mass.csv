@@ -1,0 +1,13 @@
+input distribution,circuit,eta,alpha(eta),beta(eta),certified bound,observed Pr[d̂≠d],sound
+no-margin-mass,QFT exact,1,0.0,0.0,0.0,0.0,True
+no-margin-mass,QFT banded b=3,1,0.0,0.0,0.0,0.0,True
+no-margin-mass,QFT banded b=2,1,0.1464,0.0,0.1464,0.0666,True
+moderate,QFT exact,1,0.0,0.082,0.082,0.0,True
+moderate,QFT banded b=3,1,0.0,0.082,0.082,0.0,True
+moderate,QFT banded b=2,1,0.1464,0.082,0.2285,0.0297,True
+heavy-near-T,QFT exact,1,0.0,0.8219,0.8219,0.0,True
+heavy-near-T,QFT banded b=3,1,0.0,0.8219,0.8219,0.0,True
+heavy-near-T,QFT banded b=2,1,0.1464,0.8219,0.9684,0.0502,True
+atom-at-T,QFT exact,1,0.0,0.8,0.8,0.0,True
+atom-at-T,QFT banded b=3,1,0.0,0.8,0.8,0.0,True
+atom-at-T,QFT banded b=2,1,0.1464,0.8,0.9464,0.0135,True

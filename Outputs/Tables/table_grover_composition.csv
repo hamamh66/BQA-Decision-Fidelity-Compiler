@@ -1,0 +1,7 @@
+pipeline,Grover power m,qubits,2q gates,depth
+predicate-first,1,11,823,1491
+predicate-first,2,11,1519,2749
+predicate-first,4,11,2911,5265
+sum-materialising,1,9,413,663
+sum-materialising,2,9,771,1234
+sum-materialising,4,9,1487,2376

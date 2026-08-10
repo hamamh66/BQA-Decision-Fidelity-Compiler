@@ -1,0 +1,9 @@
+pipeline,n,qubits,2q gates,depth
+predicate-first,3,11,127,229
+sum-then-compare,3,9,55,89
+predicate-first,4,13,159,287
+sum-then-compare,4,11,71,118
+predicate-first,5,15,191,345
+sum-then-compare,5,13,87,147
+predicate-first,6,17,223,403
+sum-then-compare,6,15,103,176

@@ -1,0 +1,18 @@
+circuit,n,qubits,2q gates,depth,exact-sum prob (ideal)
+Cuccaro ripple,2,5,32,56,1.0
+QFT exact,2,4,10,27,1.0
+Cuccaro ripple,3,7,48,85,1.0
+QFT exact,3,6,24,47,1.0
+QFT banded b=2,3,6,24,47,0.9999999999999998
+Cuccaro ripple,4,9,64,114,1.0
+QFT exact,4,8,44,67,1.0
+QFT banded b=2,4,8,38,63,0.949658978016437
+QFT banded b=3,4,8,44,67,0.9999999999999991
+Cuccaro ripple,5,11,80,143,1.0
+QFT exact,5,10,70,87,1.0
+QFT banded b=2,5,10,52,79,0.8922906518405957
+QFT banded b=3,5,10,64,83,0.9892955592593979
+Cuccaro ripple,6,13,96,172,1.0
+QFT exact,6,12,102,107,1.0
+QFT banded b=2,6,12,66,95,0.8835303366565354
+QFT banded b=3,6,12,84,99,0.9695740099364395
